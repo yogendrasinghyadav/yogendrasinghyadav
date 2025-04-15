@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @yogendrasinghyadav
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning R programing and SQL 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data analysis, data science
+- 🌱 I’m currently learning R programing, spss and SQL 
 - 📫 How to reach me www.linkedin.com/in/yogendra-yadav-762409226, https://www.kaggle.com/yogendrasinghyadav
 
 <!---
